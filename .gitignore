@@ -36,6 +36,7 @@
 *.x86_64
 *.hex
 hello
+task3-1
 
 # Debug files
 *.dSYM/
